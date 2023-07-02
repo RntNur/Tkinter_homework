@@ -1,7 +1,9 @@
 # Tkinter_homework
 
 Это самостоятельная работа - учебный проект создания десктопного приложения на Python + PostgreSQL с применением библиотеки tkinter + psycopg2
+
 --- При старте приложения выводится меню с возможностью выбора действий: 1 – авторизироваться, 2 – зарегистрироваться
+
 <img width="824" alt="image_2023-03-07_02-38-27" src="https://github.com/RntNur/Tkinter_homework/assets/115574135/2ed6cfbf-5098-4113-bb83-21a22912b995">
 <img width="822" alt="image_2023-03-07_02-38-27 (3)" src="https://github.com/RntNur/Tkinter_homework/assets/115574135/87a5f5c7-f033-41ab-b29e-58b2ac1b0e1e">
 
